@@ -1,0 +1,11 @@
+﻿
+    
+body {
+    background-image: url("../body-pattern.png");
+   
+}
+
+.carousel-item {
+    height:90% !important;
+}
+
